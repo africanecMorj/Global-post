@@ -1,0 +1,23 @@
+span{
+    color: #FFBE2E;
+
+}
+
+.Services_title{
+    font-size: 45;
+    color: #3E3B3B;
+    text-align: center;
+    font-weight: 800;
+}
+.Services_page{
+    width: 100%;
+    min-height: 100vh;
+    flex-direction: column;
+    display: flex;
+    background-color: #FFF8E9;
+    align-items: center;
+    padding-top:90px ;
+    padding-left: 150px;
+    padding-right: 150px;
+
+}
